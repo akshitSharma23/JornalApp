@@ -20,6 +20,7 @@ target/
 *.ipr
 *.log
 *.yml
+*.properties
 
 ### NetBeans ###
 /nbproject/private/
